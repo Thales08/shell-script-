@@ -1,4 +1,6 @@
 #!/bin/bash
 clear;
-echo "Hello World";
+echo -n "Thales Durães de Lima";
+read nome;
+echo "Hello "$nome;
 exit;
